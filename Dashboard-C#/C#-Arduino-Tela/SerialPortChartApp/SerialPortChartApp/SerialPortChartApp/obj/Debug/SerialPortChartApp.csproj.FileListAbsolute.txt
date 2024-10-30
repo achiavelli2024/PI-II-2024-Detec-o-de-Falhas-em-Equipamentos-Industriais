@@ -1,0 +1,17 @@
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\obj\Debug\SerialPortChartApp.csproj.AssemblyReference.cache
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\obj\Debug\SerialPortChartApp.Form1.resources
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\obj\Debug\SerialPortChartApp.Properties.Resources.resources
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\obj\Debug\SerialPortChartApp.csproj.GenerateResource.cache
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\obj\Debug\SerialPortChartApp.csproj.CoreCompileInputs.cache
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\bin\Debug\SerialPortChartApp.exe.config
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\bin\Debug\SerialPortChartApp.exe
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\bin\Debug\SerialPortChartApp.pdb
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\bin\Debug\MathNet.Numerics.dll
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\bin\Debug\System.Numerics.Vectors.dll
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\bin\Debug\System.ValueTuple.dll
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\bin\Debug\MathNet.Numerics.xml
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\bin\Debug\System.Numerics.Vectors.xml
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\bin\Debug\System.ValueTuple.xml
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\obj\Debug\SerialPo.EB19A8D4.Up2Date
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\obj\Debug\SerialPortChartApp.exe
+C:\M\C#-Arduino-Tela\SerialPortChartApp\SerialPortChartApp\SerialPortChartApp\obj\Debug\SerialPortChartApp.pdb
